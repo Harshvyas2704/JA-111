@@ -1,0 +1,17 @@
+LiveNotes
+
+toString() -> this method belongs to object class
+public String toString();
+
+Final -> variable, method, class.
+
+
+public ---> everywhere in any package
+private ---> inside the same class
+default ---> public inside same package but act as private outside a package
+protected ---> similar to default but acceable with the help of inheritance 
+
+
+in java every package is a folder vice versa is not true.
+
+in cmd --> javac -d . demo1.java

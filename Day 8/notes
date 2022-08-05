@@ -1,0 +1,18 @@
+Interface in Java
+
+we have 3 valid structures in Java
+1) Concreate class -> fully implemented
+2) abstract class -> partial implemented
+3) interface -> fully unimplemented
+
+interface can contains only abstract method and constant variables
+(public static final).
+
+from java 8interface can contain some special methods which have body.
+
+
+-----------------------------------------------------------------------
+
+liveClass notes
+
+-> 
